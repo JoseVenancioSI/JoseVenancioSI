@@ -27,9 +27,3 @@
   
 </div>
 
-## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/josevenanciosi/count.svg" />
- </p>
-
-</p>
