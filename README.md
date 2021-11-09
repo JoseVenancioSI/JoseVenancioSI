@@ -2,7 +2,7 @@
 
 
 - 🔭 Ainda não trabalho.
-- 🌱 Estudando Sistemas de informação (2º semestre) | Focando em desenvolvimento web e lógica por enquanto.
+- 🌱 Estudando Sistemas de informação (2º semestre) | Estudando python e lógica por enquanto.
 - 😄 Iniciante.
 
 <div>
